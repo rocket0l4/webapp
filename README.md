@@ -83,3 +83,10 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 ### - File Structure
+```bash
+├── app.py                 # Main application file
+├── data.pkl               # Default dataset (pickle format)
+├── ethe.csv               # Example CSV dataset
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+
