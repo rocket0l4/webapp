@@ -102,7 +102,6 @@ This Streamlit-based application provides an interactive dashboard for analyzing
      streamlit==1.40.1
      ...
 
-### Example Screenshots
 
   ### Interactive Price Chart : 
   
