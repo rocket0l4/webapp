@@ -1,4 +1,4 @@
-# webapp
+# Webapp
 
 # Crypto Trading Dashboard with Backtesting and Visualization
 
