@@ -127,7 +127,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 ### License
 
-This project is open-source and available under the ### MIT License.
+This project is open-source and available under the **MIT License**.
 
 
 
