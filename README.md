@@ -93,14 +93,25 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 ### Requirements
 
-Install dependencies using the provided requirements.txt:
-  ```bash
+  - Install dependencies using the provided requirements.txt:
+    ```bash
      altair==5.4.1
      numpy==2.1.3
      pandas==2.2.3
      plotly==5.24.1
      streamlit==1.40.1
      ...
+
+### Example Screenshots
+
+  Interactive Price Chart
+
+    Portfolio Equity Curve
+    Candlestick Chart
+
+(Add screenshots of your app's interface for better visualization.)
+  
+
 
 
 
