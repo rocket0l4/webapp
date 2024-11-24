@@ -67,12 +67,12 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 ### Sidebar Parameters
 
-  Upload Data: Upload your dataset or use the default dataset.
-    Filters:
+  * Upload Data: Upload your dataset or use the default dataset.
+  * Filters:
         - Set minimum and maximum price ranges.
         - Adjust the moving average window size (5–50 days).
         - Define the starting capital for backtesting.
-    Performance Metrics: View total return, maximum drawdown, and Sharpe ratio.
+   * Performance Metrics: View total return, maximum drawdown, and Sharpe ratio.
 
 ### Visualization
 
@@ -81,3 +81,5 @@ This Streamlit-based application provides an interactive dashboard for analyzing
   - Candlestick Chart: Offers detailed price action analysis.
 
 
+
+### - File Structure
