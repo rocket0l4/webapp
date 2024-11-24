@@ -109,6 +109,8 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
   Portfolio Equity Curve
+  ![portfolo equity curve ethe](https://github.com/user-attachments/assets/a79d7325-d952-4158-ad90-b5f4c677b2d9)
+
   Candlestick Chart
 
   
