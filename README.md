@@ -40,7 +40,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
    pip install -r requirements.txt
 
 3. Run the application:
-  ```bash
+   ```bash
    streamlit run app.py 
   
 
