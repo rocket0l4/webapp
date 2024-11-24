@@ -43,7 +43,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
    ```bash
    streamlit run app.py
 
- 4. Open the application in your browser at http://localhost:8501.
+4. Open the application in your browser at http://localhost:8501.
 
 
 
@@ -82,11 +82,27 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 
-### - File Structure
-```bash
-├── app.py                 # Main application file
-├── data.pkl               # Default dataset (pickle format)
-├── ethe.csv               # Example CSV dataset
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+### File Structure
+    ```bash
+      ├── app.py                 # Main application file
+      ├── data.pkl               # Default dataset (pickle format)
+      ├── ethe.csv               # Example CSV dataset
+      ├── requirements.txt       # Python dependencies
+      └── README.md              # Project documentation
+
+
+### Requirements
+
+Install dependencies using the provided requirements.txt:
+  ```bash
+     altair==5.4.1
+     numpy==2.1.3
+     pandas==2.2.3
+     plotly==5.24.1
+     streamlit==1.40.1
+     ...
+
+
+
+
 
