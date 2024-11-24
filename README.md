@@ -49,17 +49,35 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 ### Data Requirements
-Default Data
 
-    The default dataset is loaded from data.pkl. Ensure it contains the following columns:
-        Date (formatted as YYYY-MM-DD and set as the index)
-        Open, High, Low, and Close prices.
+### Default Data
 
-Custom Data
+  - The default dataset is loaded from data.pkl. Ensure it contains the following columns:
+      - Date (formatted as YYYY-MM-DD and set as the index)
+      - Open, High, Low, and Close prices.
 
-    Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
-    Note: Prices should be in USD.
+### Custom Data
+
+  - Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
+  - Note: Prices should be in USD.
   
 
+
+### Usage Guide
+
+### Sidebar Parameters
+
+  Upload Data: Upload your dataset or use the default dataset.
+    Filters:
+        - Set minimum and maximum price ranges.
+        - Adjust the moving average window size (5–50 days).
+        - Define the starting capital for backtesting.
+    Performance Metrics: View total return, maximum drawdown, and Sharpe ratio.
+
+### Visualization
+
+  - Price Chart: Shows the price movement with buy/sell signals.
+  - Portfolio Equity Curve: Displays the portfolio value over time.
+  - Candlestick Chart: Offers detailed price action analysis.
 
 
