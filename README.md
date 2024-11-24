@@ -106,10 +106,9 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
   Interactive Price Chart
 
-    Portfolio Equity Curve
-    Candlestick Chart
+  Portfolio Equity Curve
+  Candlestick Chart
 
-(Add screenshots of your app's interface for better visualization.)
   
 
 
