@@ -41,7 +41,24 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 3. Run the application:
    ```bash
-   streamlit run app.py 
+   streamlit run app.py
+
+ 4. Open the application in your browser at http://localhost:8501.
+
+
+
+
+### Data Requirements
+Default Data
+
+    The default dataset is loaded from data.pkl. Ensure it contains the following columns:
+        Date (formatted as YYYY-MM-DD and set as the index)
+        Open, High, Low, and Close prices.
+
+Custom Data
+
+    Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
+    Note: Prices should be in USD.
   
 
 
