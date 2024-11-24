@@ -104,14 +104,18 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 ### Example Screenshots
 
-  Interactive Price Chart
+  ### Interactive Price Chart: 
   ![btc_graph](https://github.com/user-attachments/assets/310a8968-aadc-4a77-a52e-132fd0592f3f)
 
 
-  Portfolio Equity Curve
+  ### Portfolio Equity Curve: 
+  
   ![portfolo equity curve ethe](https://github.com/user-attachments/assets/a79d7325-d952-4158-ad90-b5f4c677b2d9)
 
-  Candlestick Chart
+  ### Candlestick Chart: 
+  
+  ![candelstick_chart ethe](https://github.com/user-attachments/assets/581bf4e1-5cf9-438c-820a-c63f7fa1a9dc)
+
 
   
 
