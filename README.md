@@ -35,3 +35,13 @@ This Streamlit-based application provides an interactive dashboard for analyzing
    git clone <repository_url>
    cd <repository_folder>
 
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3.Run the application:
+  ```bash
+   streamlit run app.py
+
+4.Open the application in your browser at
+
