@@ -25,11 +25,11 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 ## How to Run
 
-### Prerequisites
+### - Prerequisites
 1. **Python 3.9+** installed on your machine.
 2. Install the required Python packages using `requirements.txt`.
 
-### Setup Instructions
+### - Setup Instructions
 1. Clone this repository:
    ```bash
    git clone <repository_url>
@@ -48,24 +48,24 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 
-### Data Requirements
+###  # Data Requirements
 
-### Default Data
+###  - Default Data
 
   - The default dataset is loaded from data.pkl. Ensure it contains the following columns:
       - Date (formatted as YYYY-MM-DD and set as the index)
       - Open, High, Low, and Close prices.
 
-### Custom Data
+### - Custom Data
 
   - Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
   - Note: Prices should be in USD.
   
 
 
-### Usage Guide
+### - Usage Guide
 
-### Sidebar Parameters
+###  - Sidebar Parameters
 
   * Upload Data: Upload your dataset or use the default dataset.
   * Filters:
@@ -74,7 +74,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
         - Define the starting capital for backtesting.
    * Performance Metrics: View total return, maximum drawdown, and Sharpe ratio.
 
-### Visualization
+### - Visualization
 
   - Price Chart: Shows the price movement with buy/sell signals.
   - Portfolio Equity Curve: Displays the portfolio value over time.
@@ -82,7 +82,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 
-### File Structure
+### - File Structure
     ```bash
       ├── app.py                 # Main application file
       ├── data.pkl               # Default dataset (pickle format)
@@ -91,7 +91,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
       └── README.md              # Project documentation
 
 
-### Requirements
+### - Requirements
 
   - Install dependencies using the provided requirements.txt:
     ```bash
@@ -103,21 +103,21 @@ This Streamlit-based application provides an interactive dashboard for analyzing
      ...
 
 
-  ### Interactive Price Chart : 
+  ### - Interactive Price Chart : 
   
   ![buy-sell price chart ethe](https://github.com/user-attachments/assets/e4f1c399-2179-415d-bb40-8c2e17886e5e)
 
 
 
 
-  ### Portfolio Equity Curve : 
+  ### - Portfolio Equity Curve : 
   
   ![portfolo equity curve ethe](https://github.com/user-attachments/assets/a79d7325-d952-4158-ad90-b5f4c677b2d9)
 
 
 
 
-  ### Candlestick Chart : 
+  ### - Candlestick Chart : 
   
   ![candelstick_chart ethe](https://github.com/user-attachments/assets/581bf4e1-5cf9-438c-820a-c63f7fa1a9dc)
 
@@ -126,7 +126,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
 
-### License
+### * License
 
 This project is open-source and available under the **MIT License**.
 
