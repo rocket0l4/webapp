@@ -46,6 +46,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 4. Open the application in your browser at http://localhost:8501.
 
 
+---
 
 
 ###  # Data Requirements
@@ -61,7 +62,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
   - Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
   - Note: Prices should be in USD.
   
-
+---
 
 ### - Usage Guide
 
@@ -80,7 +81,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
   - Portfolio Equity Curve: Displays the portfolio value over time.
   - Candlestick Chart: Offers detailed price action analysis.
 
-
+---
 
 ### - File Structure
     ```bash
@@ -90,6 +91,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
       ├── requirements.txt       # Python dependencies
       └── README.md              # Project documentation
 
+---
 
 ### - Requirements
 
@@ -102,12 +104,14 @@ This Streamlit-based application provides an interactive dashboard for analyzing
      streamlit==1.40.1
      ...
 
+---
 
   ### - Interactive Price Chart : 
   
   ![buy-sell price chart ethe](https://github.com/user-attachments/assets/e4f1c399-2179-415d-bb40-8c2e17886e5e)
 
 
+---
 
 
   ### - Portfolio Equity Curve : 
@@ -115,6 +119,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
   ![portfolo equity curve ethe](https://github.com/user-attachments/assets/a79d7325-d952-4158-ad90-b5f4c677b2d9)
 
 
+---
 
 
   ### - Candlestick Chart : 
@@ -123,7 +128,7 @@ This Streamlit-based application provides an interactive dashboard for analyzing
 
 
   
-
+---
 
 
 ### * License
