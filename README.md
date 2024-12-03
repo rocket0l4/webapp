@@ -62,7 +62,6 @@ This Streamlit-based application provides an interactive dashboard for analyzing
   - Upload a CSV file via the sidebar with the required columns: Date, Open, High, Low, and Close.
   - Note: Prices should be in USD.
   
----
 
 ### - Usage Guide
 
