@@ -1,5 +1,3 @@
-# Webapp
-
 # Crypto Trading Dashboard with Backtesting and Visualization
 
 This Streamlit-based application provides an interactive dashboard for analyzing cryptocurrency price data, implementing trading strategies, and visualizing results. It includes features for uploading custom datasets, applying filters, and evaluating performance metrics using backtesting. The application is designed to help traders and analysts make data-driven decisions.
